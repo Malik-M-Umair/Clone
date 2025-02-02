@@ -1,0 +1,74 @@
+@media  only screen and (max-width:430px){
+
+    .content input{
+        
+        max-width: 340px;
+
+    }
+    .card-controller{
+        position: relative;
+        bottom: 200px;
+        /* background-color: red; */
+    }
+    /* .div img{
+        margin-left: auto;
+        width: 14rem;
+        margin-top: 20px;
+    }
+    .lm{
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .div button{
+        justify-content: flex-end;
+        background-color: green;
+        margin-left: auto;
+        /* width: 100%; */
+        
+    /* }  */
+    .lm img{
+        width: 200px;
+    }
+    .lm button{
+       margin-right: auto;
+       
+      
+    }
+    .lm{
+        gap: 60px;
+    }
+    .head2 h1{
+        margin-left:auto;
+        padding-left: 60px;
+    }
+    .controller{
+        margin-top: 1100px;
+        /* max-width: 100px; */
+        margin-left: auto;
+    }
+    .accordion{
+        width:380px;
+        /* margin-right: 500px; */
+    }
+    .foot{
+        display: flex;
+        flex-direction: column;
+        gap: 0px;
+    }
+    .cd{
+        margin-left: auto;
+        position: relative;
+        right: 70px;
+    }
+    .first{
+        margin-left: auto;
+        margin-left: 15px;
+    }
+    .accordion .contentBx.active .content{
+        height: 515px;
+    }
+    .card:hover{
+        width: 1000px;
+    }
+}
